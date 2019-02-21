@@ -30,7 +30,7 @@ node is checked. If it exists, it is added to the list of words found for that
 sub tree, and returned.
 
 For a conceptual explanation of how this works, consider that strings can be
-modelled as paths through a 26 dimensional grid, where each dimension
+modeled as paths through a 26 dimensional grid, where each dimension
 corresponds with a letter of the alphabet. A dictionary is then the set of all
 such paths that correspond with valid words in a given language. A set of
 letters, such as those contained in our search words, defines a surface within
